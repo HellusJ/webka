@@ -1,0 +1,37 @@
+
+
+
+
+
+
+[
+    {
+        "id": "student1",
+        "name": "Matěj",
+        "bio": "Info o Matějovi",
+        "photo": "path/to/matej.jpg"
+    },
+    {
+        "id": "student2",
+        "name": "adam",
+        "bio": "Info o adamovi",
+        "photo": "path/to/adam.jpg"
+    },
+    {
+        "id": "student3",
+        "name": "dan",
+        "bio": "Info o danovi",
+        "photo": "path/to/dan.jpg"
+    },
+    {
+        "id": "student4",
+        "name": "Marek",
+        "bio": "Info o Markovi",
+        "photo": "path/to/marek.jpg"
+    }
+]
+
+
+
+
+

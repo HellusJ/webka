@@ -1,0 +1,52 @@
+body{
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+header{
+    text-align:center;
+    padding: 20px;
+}
+
+#group-photo{
+    max-width:100%;
+    height:auto;
+}
+
+#student-menu{
+    display:flex;
+    justify-content:center;
+    padding: 10px;
+    background-color: rgb(221, 221, 221);
+}
+
+#student-menu a{
+    margin: 0 10px;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+.profile-card{
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 8px;
+    background-color: rgb(255, 136, 0);
+}
+
+.profile-card h2{
+    color: rgb(0, 0, 0);
+}
+
+footer{
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(187, 187, 187);
+    border: 1px slid rgb(0, 0, 0);
+}
+
+
+
+
+
+
